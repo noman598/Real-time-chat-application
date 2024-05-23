@@ -51,6 +51,6 @@ POST /login
 
 Necessary Environment Configurations
 
-Stream Chat API Key and Secret: Replace api_key and api_secret in the server-side code with your Stream Chat API key and secret.
+* Stream Chat API Key and Secret: Replace api_key and api_secret in the server-side code with your Stream Chat API key and secret.
 
-Port Configuration: By default, the server runs on port 3001. If necessary, you can change this port in the server-side code and ensure that the client-side code connects to the correct port.
+* Port Configuration: By default, the server runs on port 3001. If necessary, you can change this port in the server-side code and ensure that the client-side code connects to the correct port.
