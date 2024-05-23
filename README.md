@@ -1,4 +1,11 @@
 # Real-time-chat-application
+React.js | Node.js | Stream-chat | Stream- chat-react
+
+Real-Time Fun with Tic-Tac-Toe
+Designed and created an innovative real-time chat application featuring secure chat
+capabilities for seamless communication between 2 users. Ensured efficient
+development with additional integration of a fun Tic-Tac-Toe game within the
+software product.
 
 ## Setup and Run Instructions
 ### Server-Side Setup:
